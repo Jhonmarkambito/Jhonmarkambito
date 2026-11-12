@@ -1,4 +1,4 @@
-# Hi, I'm Jhon Mark Ambito 👋
+# Hi, I'm Jhon Mark Ambito 
 
 ### IT Student | Exploring Different Technologies
 
@@ -10,11 +10,11 @@ I enjoy experimenting with software development, web applications, databases, ne
 
 ### About Me
 
-- 🎓 Information Technology Student
-- 💻 Interested in software and web development
-- 🌱 Continuously learning and exploring new technologies
-- 🔍 Enjoy solving problems and building practical applications
-- 🚀 Focused on improving my technical and development skills
+- Information Technology Student
+- Interested in software and web development
+- Continuously learning and exploring new technologies
+- Enjoy solving problems and building practical applications
+- Focused on improving my technical and development skills
 
 ### Technologies & Tools
 
